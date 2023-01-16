@@ -1,0 +1,9 @@
+my:
+greeting: This is my Config-Server
+list:
+values: One,Two,Three,Four
+
+db:
+connection: connection-config-server
+host: 127.0.0.1
+port:
